@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCross.Bindings", "MvvmCross.Bindings\MvvmCross.Bindings.csproj", "{B8016894-F0F2-4E7F-8B6A-84141E04AFFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCross.Bindings.Core", "MvvmCross.Bindings.Core\MvvmCross.Bindings.Core.csproj", "{D84FF104-023E-408A-9544-8A3DD584C89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8016894-F0F2-4E7F-8B6A-84141E04AFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8016894-F0F2-4E7F-8B6A-84141E04AFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8016894-F0F2-4E7F-8B6A-84141E04AFFC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8016894-F0F2-4E7F-8B6A-84141E04AFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8016894-F0F2-4E7F-8B6A-84141E04AFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8016894-F0F2-4E7F-8B6A-84141E04AFFC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D84FF104-023E-408A-9544-8A3DD584C89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84FF104-023E-408A-9544-8A3DD584C89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84FF104-023E-408A-9544-8A3DD584C89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84FF104-023E-408A-9544-8A3DD584C89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

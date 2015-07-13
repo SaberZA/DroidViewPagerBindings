@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="MvvmCross.Bindings\MvvmCross.Bindings.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 10 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmCross.Bindings\Setup.cs">
+    <Files>
+      <File FileName="MvvmCross.Bindings\BindableViewPager.cs" Line="118" Column="87" />
+      <File FileName="MvvmCross.Bindings\Setup.cs" Line="23" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
